@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey 👋 I'm Tonoy
 
-<!--
-**gmtonoy/gmtonoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer · Computer Information Systems (CIS) Student · Ex-ITS Help Desk Tech  
+📍 Camden / Atlantic City, New Jersey  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack  
+JavaScript · TypeScript · Node.js · Express · React · Prisma · PostgreSQL · MySQL · Docker
+
+---
+
+### 🌱 Currently Working On
+- Backend APIs using Express & Prisma  
+- Learning DevOps tools like Docker & GitHub Actions  
+- Personal Projects under [Tonoy IT Solutions](https://tonoyitsolutions.com)
+
+---
+
+### 📫 Let's Connect
+[🌐 Website](https://tonoyitsolutions.com) • [LinkedIn](https://linkedin.com/in/gmtonoy) • [Twitter](https://twitter.com/gmtonoy)
+
+---
+
+![Tonoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmtonoy&show_icons=true&theme=tokyonight)
